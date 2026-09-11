@@ -44,6 +44,7 @@ and SMTP automation, Git.
 
 ## Reach me
 
+- LinkedIn: [linkedin.com/in/adrian-mcmahon](https://www.linkedin.com/in/adrian-mcmahon/)
 - Kaggle: [kaggle.com/adrianmcmahon](https://www.kaggle.com/adrianmcmahon)
 - Email: adrian_mac15@yahoo.com
 

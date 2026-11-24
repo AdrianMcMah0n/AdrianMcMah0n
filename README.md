@@ -44,10 +44,14 @@ production logic are left out.
 | [python-scraper-to-excel](https://github.com/AdrianMcMah0n/python-scraper-to-excel) | Full-catalogue scraper with retries, resumable checkpoint, validation and a completeness report, delivered as Excel and CSV |
 | [pdf-to-structured-data](https://github.com/AdrianMcMah0n/pdf-to-structured-data) | PDF invoices in any layout to a checked Excel file with gpt-4o-mini: schema-bound output, arithmetic and grounding checks |
 | [uk-property-prices-dbt](https://github.com/AdrianMcMah0n/uk-property-prices-dbt) | Open property-sales data loaded into PostgreSQL (Docker) and modelled with dbt: staging, marts and data tests |
+| [support-agent-rag-tools](https://github.com/AdrianMcMah0n/support-agent-rag-tools) | AI support agent on gpt-4o-mini: cited answers from company documents, safe order lookup, tickets, guardrails in code, 16-case evaluation |
+| [crm-sync-webhooks](https://github.com/AdrianMcMah0n/crm-sync-webhooks) | Web-form leads to CRM: signed webhooks, retries for 429/5xx, idempotent upserts, dead letters, HubSpot connector |
+| [excel-report-automation](https://github.com/AdrianMcMah0n/excel-report-automation) | Messy branch exports in any layout to one finished Excel report with charts, exceptions and an email-ready summary |
+| [lead-list-cleaner](https://github.com/AdrianMcMah0n/lead-list-cleaner) | Lead lists merged into one CRM-ready list: validation, duplicate merging that keeps every detail, measured against an answer key |
 
 ## Toolbox
 
-Python, MongoDB, PostgreSQL, dbt, Pandas, Flask, FastAPI, Selenium, Playwright, BeautifulSoup,
+Python, MongoDB, PostgreSQL, dbt, Pandas, Flask, FastAPI, HubSpot API, webhooks, Selenium, Playwright, BeautifulSoup,
 Docker, SearXNG, OpenAI and Claude APIs, Tesseract and vision OCR, Google Sheets
 and SMTP automation, Git.
 

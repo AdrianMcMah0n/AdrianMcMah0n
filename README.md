@@ -37,9 +37,17 @@ production logic are left out.
 | [court-case-tracker](https://github.com/AdrianMcMah0n/court-case-tracker) | Automated case monitoring across 750+ court portals |
 | [rotating-proxy-pool](https://github.com/AdrianMcMah0n/rotating-proxy-pool) | Self-verifying rotating-proxy library with leak detection |
 
+## Working demos (runnable code, public data)
+
+| Project | What it shows |
+|---|---|
+| [python-scraper-to-excel](https://github.com/AdrianMcMah0n/python-scraper-to-excel) | Full-catalogue scraper with retries, resumable checkpoint, validation and a completeness report, delivered as Excel and CSV |
+| [pdf-to-structured-data](https://github.com/AdrianMcMah0n/pdf-to-structured-data) | PDF invoices in any layout to a checked Excel file with gpt-4o-mini: schema-bound output, arithmetic and grounding checks |
+| [uk-property-prices-dbt](https://github.com/AdrianMcMah0n/uk-property-prices-dbt) | Open property-sales data loaded into PostgreSQL (Docker) and modelled with dbt: staging, marts and data tests |
+
 ## Toolbox
 
-Python, MongoDB, Pandas, Flask, FastAPI, Selenium, Playwright, BeautifulSoup,
+Python, MongoDB, PostgreSQL, dbt, Pandas, Flask, FastAPI, Selenium, Playwright, BeautifulSoup,
 Docker, SearXNG, OpenAI and Claude APIs, Tesseract and vision OCR, Google Sheets
 and SMTP automation, Git.
 
